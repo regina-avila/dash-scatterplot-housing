@@ -12,7 +12,7 @@ neighborhood='Chevy Chase'
 color1='#04F9E6'
 color2='#1B03B1'
 sourceurl = 'https://www.kaggle.com/christophercorrea/dc-residential-properties/'
-githublink = 'https://github.com/austinlasseter/dash-scatterplot-housing'
+githublink = 'https://github.com/regina-avila/dash-scatterplot-housing'
 
 ########### Prepare the dataframe
 df = pd.read_csv('DC_Properties.csv')
